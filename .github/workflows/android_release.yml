@@ -1,4 +1,4 @@
-name: Build and upload release aab to slack
+name: Build when merged at Master
 
 on:
   push:
